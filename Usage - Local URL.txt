@@ -1,0 +1,11 @@
+http://localhost/app/
+
+
+
+
+
+The local URL to test this page is http://localhost/app/
+
+The code path for Angular is -> /App/ folder
+
+The code path for BackEnd code is -> /DotNet/ folder
